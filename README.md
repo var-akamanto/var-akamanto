@@ -1,6 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=var-akamanto&show_icons=true&theme=merkoshow_owner=true)
+###✌️Meu nome é Pedro, e eu sou sou estudante de Análise e Desenvolvimento de Sistemas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=var-akamanto&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=var-akamanto&show_icons=true&theme=merko&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=var-akamanto&layout=compact&theme=merko)
 
 
 <div style="display: inline_block"><br>
