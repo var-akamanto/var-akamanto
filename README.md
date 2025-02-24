@@ -1,15 +1,10 @@
-<h1>🏴‍☠️Bem-vindo ao meu mundo!</h1>
+<h1>🀄Bem vindo ao meu domínio!</h1>
+
+<h3>Sou um estudante de ADS no Instituto Federal, trabalho atualmente na Senior Sistemas e tenho grande interesse no desenvolvimento back-end. Atualmente estou estudando NodeJs e C#</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=var-akamanto&show_icons=true&theme=merko&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=var-akamanto&layout=compact&theme=merko)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/var-akamanto/var-akamanto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/var-akamanto/var-akamanto/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/var-akamanto/var-akamanto/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <div style="display: inline_block"><br>
