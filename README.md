@@ -1,6 +1,6 @@
 <h1>🀄Bem vindo ao meu domínio!</h1>
 
-<h3>Sou um estudante de ADS no Instituto Federal, trabalho atualmente na Senior Sistemas e tenho grande interesse no desenvolvimento back-end. Atualmente estou estudando NodeJs e C#</h3>
+<h3>Estudante de Ciencia de dados.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=var-akamanto&show_icons=true&theme=merko&rank_icon=github)
 
