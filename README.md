@@ -2,8 +2,6 @@
 
 <h3>Estudante de Ciencia de dados.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=var-akamanto&show_icons=true&theme=merko&rank_icon=github)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=var-akamanto&layout=compact&theme=merko)
 
 
